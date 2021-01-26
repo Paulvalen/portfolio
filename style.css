@@ -1,0 +1,45 @@
+.image-container {
+  height: auto;
+  width: 300px;
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.dark-background{
+  background-color: #678f85
+/* color for the header */
+}
+.background-color {
+  background-color: #f5f5f0;
+}
+/* Align name, color, font and padding */
+.center-text{
+  text-align: center;
+  padding: 10px 0px 5px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fafaed;
+} 
+/* font  */
+main{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2f522e;
+}
+/* padding the content */
+article{
+  padding: 0 40px 0px 40px;
+  margin: auto;
+}
+/* color the footer back ground */
+footer{
+  background-color:  #678f85;
+  text-align: center;
+  color: #f5f5f0;
+  padding: 1px 0px 1px 0px;
+  margin: 0;
+/* font for links and color */
+}
+ol, ul{
+   color: #2f522e;
+}
+
