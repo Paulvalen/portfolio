@@ -14,7 +14,7 @@
   background-color: #f5f5f0;
 }
 /* Align name, color, font and padding */
-.center-text{
+.center-text  {
   text-align: center;
   padding: 10px 0px 5px 0px;
   font-family: Arial, Helvetica, sans-serif;
@@ -22,6 +22,7 @@
 } 
 /* font  */
 main{
+  font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
   color: #2f522e;
 }
@@ -39,5 +40,9 @@ footer{
   margin: 0;
 
 }
+a:link    {color:#1f6ecf;}
+a:visited {color:#3044db;}
+a:hover   {color:#6d1d8f}
+a:active  {color:#9292e8;}
 
 
